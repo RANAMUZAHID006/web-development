@@ -1,2 +1,2 @@
 # web-development
-This is Project for Web development
+This is Project for Web development.
